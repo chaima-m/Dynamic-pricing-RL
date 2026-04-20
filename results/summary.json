@@ -1,0 +1,26 @@
+{
+  "Random": {
+    "mean_reward": 23.097566085310607,
+    "std_reward": 3.070952097039537
+  },
+  "Fixed": {
+    "mean_reward": 22.707363482688894,
+    "std_reward": 1.833210967911199
+  },
+  "RuleBased": {
+    "mean_reward": 22.1427271263449,
+    "std_reward": 2.8416435224451604
+  },
+  "Optimal": {
+    "mean_reward": 21.639937724157008,
+    "std_reward": 3.035008992445091
+  },
+  "DQN": {
+    "mean_reward": 33.98859677995434,
+    "std_reward": 3.736769774330138
+  },
+  "MAML": {
+    "mean_reward": 23.784052613579796,
+    "std_reward": 0.0
+  }
+}
